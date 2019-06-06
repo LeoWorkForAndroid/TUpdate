@@ -5,6 +5,10 @@ import android.content.Context
 class TUpdate {
 
 
+
+
+
+
     /**
      * 版本更新管理构建者
      */
